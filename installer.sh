@@ -6,4 +6,4 @@ git clone --depth 1 https://github.com/drygdryg/OneShot OneShot
 
 chmod +x OneShot/oneshot.py
 
-printf "###############################################\n#  All done Special thanks to MrProblue, wolfyy and jazz for making this script possible! Now you can run OneShot with\n#   sudo python OneShot/oneshot.py -i wlan0 -K\n#\n#  To update, run\n#   (cd OneShot && git pull)\n###############################################\n"
+printf "###############################################\n#  All done Special thanks to MrProblue, wolfyy, drygdryg, jazz. for making this script possible! Now you can run OneShot with\n#   sudo python OneShot/oneshot.py -i wlan0 -K\n#\n#  To update, run\n#   (cd OneShot && git pull)\n###############################################\n"
